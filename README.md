@@ -1,9 +1,9 @@
-<h1 align="center">Calculadora de IMC</h1>
+<h1 align="center">Calculadora IMC</h1>
 <p align="center">Calculadora de IMC desenvolvida na Semana React JS do @sujeitoprogramador</p> <br />
 
 
 ### ☁️ Deploy:
-A <a href="https://imc-lucasdam.vercel.app/" target="_blank">Calculadora de IMC</a> está hospedada na Vercel.
+A <a href="https://imc-lucasdam.vercel.app/" target="_blank">Calculadora IMC</a> está hospedada na Vercel.
 <br /> <br />
 
 ### 💻 Projeto:
@@ -22,7 +22,7 @@ Colocar em prática técnicas, conceitos e tecnologias utilizadas no desenvolvim
 <br /> <br />
 
 ### 📷 Tela:
-![meulink](https://user-images.githubusercontent.com/54273070/156686948-682d87ad-a20b-4805-a3c5-353cb351feee.gif)
+![calculadora-imc](https://user-images.githubusercontent.com/54273070/156848248-ef5f2e3e-d886-430e-a308-c46d60088c93.jpg)
 
 <br />
 
